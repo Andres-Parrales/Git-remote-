@@ -64,7 +64,8 @@ Puedes ver el código fuente completo en el repositorio:
 Y acceder al sitio en línea (una vez activado GitHub Pages) aquí:  
 👉 [https://andres-parrales.github.io/Git-remote-/](https://andres-parrales.github.io/Git-remote-/)
 *
-  
+  > En caso en el que el enlace no funcione configura lo siguiente: **
+> **Settings → Pages → Branch: main → /root → Save**
 ---
 
 ## Comentarios finales

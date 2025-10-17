@@ -5,6 +5,9 @@
 [GitHub: Andres-Parrales](https://github.com/Andres-Parrales)  
 
 ---
+##Portada del proyecto
+![Vista previa del sitio](./images/preview.png)
+---
 
 ## Descripción del proyecto
 

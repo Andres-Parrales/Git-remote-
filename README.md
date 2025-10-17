@@ -5,6 +5,9 @@
 [GitHub: Andres-Parrales](https://github.com/Andres-Parrales)  
 
 ---
+##Imagen de miniatura en README.me
+![Preview del Proyecto](preview.png)
+---
 
 ## Descripción del proyecto
 
